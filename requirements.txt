@@ -46,5 +46,5 @@ webcolors==1.13
 xarray==2023.6.0
 xlrd==2.0.1
 xlsxwriter==3.1.9
-xmlrpclib==1.0.1
+xmlrpclib
 zstandard==0.19.0
